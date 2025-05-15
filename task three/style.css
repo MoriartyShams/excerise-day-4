@@ -1,0 +1,45 @@
+
+nav {
+height: 300px;
+text-align: center;
+padding-top: 100px;
+text-transform: uppercase;
+background-image: url("image.webp");
+background-repeat: no-repeat;
+background-size: cover;
+  
+
+}
+
+body {
+ display: grid;
+ margin: 0;
+background-color: rgb(190, 196, 171);
+}
+
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    color: rgb(2, 45, 25);
+    text-shadow: 2px 2px #9fa4a3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.column {
+  float: left;
+  width: 20%;
+  margin-bottom: 20x;
+  padding: 0 80px;
+}
+
+
+img {
+    width: 400px;
+    height: 300px;
+    
+}
+p {
+     text-align: center;
+     font-family: cursive;
+}

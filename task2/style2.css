@@ -1,0 +1,31 @@
+div{
+    margin: 5px;
+}
+
+h1{
+color: blue;
+}
+
+#third span {
+     visibility: visible;
+}
+
+.right p{
+ visibility: visible;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+p{
+    color: red;
+}
+#third p{
+    background-color: rgb(77, 83, 109);
+}
+
+#comment{
+    width: 200px;
+    height: 100px;
+}
